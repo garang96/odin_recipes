@@ -9,3 +9,9 @@ By the end of this project, the following skills will have been demonstrated:
 - Working with lists in HTML.
 - creating links in HTML.
 - displaying images on a webpage.
+
+## Take Aways from the Project
+Apart from the above stated skills, the project has enriched me with the ability to:
+
+- work with different HTML files in a project.
+- create relative links.
