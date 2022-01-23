@@ -3,3 +3,25 @@ body {
     padding: 0;
     margin: 0;
 }
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.homepage-img {
+    width: 60%;
+    margin: 10px auto;
+    display: block;
+}
+
+.other-pages-links li a {
+    text-decoration: none;
+    color: blue;
+    font-size: 1.2em;
+}
+
+.other-pages-links {
+    display: flex;
+    justify-content: center;
+}
