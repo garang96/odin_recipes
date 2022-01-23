@@ -15,3 +15,7 @@ Apart from the above stated skills, the project has enriched me with the ability
 
 - work with different HTML files in a project.
 - create relative links.
+
+## Live Demo
+
+[Recipes](https://garang96.github.io/odin_recipes/)
