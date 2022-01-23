@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin: 1em 0;
+}
+
+ul,
+ol {
+    padding: 0;
+}
+
+#classic-image {
+    width: 60%;
+    height: 40rem;
+    margin: 10px auto;
+    display: block;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px auto;
+    font-size: 1.3em;
+    width: 60%;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 1.2rem;
+}
